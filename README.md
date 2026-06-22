@@ -1,3 +1,4 @@
+![Spec](https://github.com/donglp1810/english-warrior/blob/main/spec_1_img.PNG)
 # Design Spec: Core Học Nghe-Nói (Slice 1) — English Warrior
 
 > Ngày: 2026-06-22 · Trạng thái: Đã duyệt (qua brainstorming) · Sub-project: #1
